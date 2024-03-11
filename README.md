@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[ML Models](https://github.com/Rahul-090/ML_Models)**
 
-- 🌱 I’m currently learning **CNN , RCNN.**
+- 🌱 I’m currently learning **Flask.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
