@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ML Models](https://github.com/Rahul-090/ML_Models)**
+- 🔭 I’m currently working as **FullStack Developer**
 
 - 🌱 I’m currently learning **Flask.**
 
