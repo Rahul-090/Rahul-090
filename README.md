@@ -54,6 +54,16 @@
 
 <br/>
 
+## 🧠 LeetCode Stats
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/theOath/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/theOath?theme=dark&font=Fira%20Code&ext=heatmap)
+
+
+<br/>
+
+
 ## Connect with me:
 <p align="left">
 
