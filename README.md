@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as **FullStack Developer**
+- 🔭 I’m currently working as **Java Developer**
 
 - 🌱 I’m currently learning **Spring Boot.**
 
