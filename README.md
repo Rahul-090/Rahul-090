@@ -1,6 +1,6 @@
 # Rahul Sharma
 
-**Senior Backend Developer** · Patiāla, India
+**Senior Backend Developer** · Chandigarh, India
 
 Focused on building reliable, scalable backend systems. Currently exploring Go.
 Open to collaborating on open source projects.
