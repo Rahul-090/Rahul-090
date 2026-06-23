@@ -6,18 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as **Java Developer**
+- 🔭 I’m currently working as **Senior Backend Developer**
 
-- 🌱 I’m currently learning **Spring Boot.**
+- 🌱 I’m currently learning **Golang.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
 
 - 📫 How to reach me **rs1692992.com@gmail.com**
-
-- Portfolio Link  <a href="https://courageous-motivation-production.up.railway.app/">Link</a>
-
 
 
 ## 🚀 Languages and Tools:
