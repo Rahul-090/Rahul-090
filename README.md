@@ -11,8 +11,8 @@ Open to collaborating on open source projects.
 
 **Languages** — Python · C++ · Go *(learning)*  
 **Frameworks** — Django · TensorFlow  
-**Databases** — MySQL · MongoDB  
-**Tools** — Git · Postman · OpenCV
+**Databases** — MySQL · MongoDB · PostgreSQL  
+**Tools** — Git · Postman · OpenCV · Linux
 
 ---
 
